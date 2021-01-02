@@ -17,7 +17,7 @@ A basic programming language that help you, and automatize your development, wit
 =========================================================================
 
 ## BEFORE START!!
-As i have explained in the DickyLang repository, you need Bash, and GCC(obbviously to run the code). And i have created a guide to install GCC, to another distributions. (https://github.com/simone-ciardo/DickyLang/main/README.md)
+As i have explained in the DickyLang repository, you need Bash, and GCC(obbviously to run the code). And i have created a guide to install GCC, to another distributions. (https://github.com/simone-ciardo/DickyLang/blob/main/README.md)
 
 =========================================================================
 
