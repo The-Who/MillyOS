@@ -15,4 +15,4 @@ To report security problems or vulnerabilities contact to this email:
 (simone.ciardo20@gmail.com)
 
 Or go to the contact form in the my site:
-(simone-ciardo.github.com) ** The site is still in development, so please, contact me via email **
+(simone-ciardo.github.io) ** The site is still in development, so please, contact me via email **
