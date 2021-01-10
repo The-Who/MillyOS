@@ -1,6 +1,6 @@
 as --32 boot/boot.S -o boot/boot.o
 gcc -m32 -c kernel/main.c -o kernel/main.o -std=gnu99 -ffreestanding -O2 -Wall -Wextra
-ld -m elf_i386 -T linker.ld kernel/main.o boot/boot.o -o MillyOS.bin -nostdlib
+ld -m elf_i386 -T kernel/linker.ld kernel/main.o boot/boot.o -o MillyOS.bin -nostdlib
 
 grub-file --is-x86-multiboot MillyOS.bin
 
