@@ -1,6 +1,6 @@
 #include "screen/colors.h"
 
-uint16 VGAentry(unsigned char ch, uint8 foreColor, uint8 backColor) 
+uint16 VGAentry(unsigned char character, uint8 foreColor, uint8 backColor) 
 {
     uint16 ax = 0;
 
@@ -15,7 +15,7 @@ uint16 VGAentry(unsigned char ch, uint8 foreColor, uint8 backColor)
     ax <<= 8;
     ax  |= al;
 
-    al = ch;
+    al = character;
 
     return ax;
 }
