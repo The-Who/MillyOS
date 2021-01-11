@@ -26,3 +26,4 @@ The program is under GNU/GPL License 3.0.
 
 ### Credits
 * simone-ciardo: The developer of this project(https://github.com/simone-ciardo).
+* Absurdponcho:  The implementator of the kernel(https://github.com/Absurdponcho).
