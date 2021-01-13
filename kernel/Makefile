@@ -1,5 +1,4 @@
-
-OSNAME = CustomOS
+OSNAME = MillyOS
 
 GNUEFI = ../gnu-efi
 OVMFDIR = ../OVMFbin
