@@ -11,6 +11,7 @@ For install all digit on the terminal this:
 `sudo apt install build-essential && sudo apt install mtools`
 
 * For Arch or derivates:
+
 `sudo pacman -Syu`
 `sudo pacman -S base-devel`
 
