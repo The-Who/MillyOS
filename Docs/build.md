@@ -18,15 +18,18 @@ For install all digit on the terminal this:
 # Preparing the workspace
 Go to the main directory, right click and go to "open in terminal".
 And digit 
+
 `git clone https://github.com/Absurdponcho/gnu-efi && git clone https://github.com/Absurdponcho/OVMFbin`.
 
 Now, you have the repositories, for make gnu-efi type this:
+
 `cd gnu-efi && make`
 
 # Building the source
 Go to the kernel directory, right click and go to "open in terminal".
 
 Type this:
+
 `cd .. && sh build.sh`
 
 Well, now you can use the operating system!!
