@@ -5,6 +5,7 @@ Git.
 
 For install all digit on the terminal this:
 * For Debian/Ubuntu or derivates:
+
 `sudo apt update`
 `sudo apt upgrade -y`
 `sudo apt install build-essential && sudo apt install mtools`
@@ -15,7 +16,8 @@ For install all digit on the terminal this:
 
 # Preparing the workspace
 Go to the main directory, right click and go to "open in terminal".
-And digit `git clone https://github.com/Absurdponcho/gnu-efi && git clone https://github.com/Absurdponcho/OVMFbin`.
+And digit 
+`git clone https://github.com/Absurdponcho/gnu-efi && git clone https://github.com/Absurdponcho/OVMFbin`.
 
 Now, you have the repositories, for make gnu-efi type this:
 `cd gnu-efi && make`
