@@ -23,6 +23,7 @@ Go to the main directory, right click and go to "open in terminal".
 And digit 
 
 * Note: You can skip this part beacuse is integrated in the `build.sh` file.
+
 `git clone https://github.com/The-Who/gnu-efi && git clone https://github.com/Absurdponcho/OVMFbin`.
 
 Now, you have the repositories, for make gnu-efi type this:
