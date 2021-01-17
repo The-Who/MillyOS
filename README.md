@@ -1,6 +1,8 @@
 # MillyOS
 A minimal, but complete operating system, written from scratch.
 
+![0.0.1-INDEV_20210116](Dragster.jpg)
+
 =========================================================================
 
 ## What is?
