@@ -5,9 +5,9 @@
 The project is still in development. But these are the versions i've created:
 * 0.0.1-INDEV - ** Created the kernel, and the boot. **
 
-| Version     | Supported          |
-| ----------- | ------------------ |
-| 0.0.1-INDEV | :white_check_mark: |
+| Version              | Supported          |
+| -------------------- | ------------------ |
+| 0.0.1-INDEV_20200116 | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
