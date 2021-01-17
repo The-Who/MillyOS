@@ -7,7 +7,7 @@ The project is still in development. But these are the versions i've created:
 
 | Version              | Supported          |
 | -------------------- | ------------------ |
-| 0.0.1-INDEV_20200116 | :white_check_mark: |
+| 0.0.1-INDEV_20210116 | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
