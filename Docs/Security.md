@@ -3,7 +3,7 @@
 ## Supported Versions
 
 The project is still in development. But these are the versions i've created:
-* 0.0.1-INDEV - ** Created the kernel, and the boot. **
+* 0.0.1-INDEV_20200116 - ** Created the kernel, and booting up it. **
 
 | Version              | Supported          |
 | -------------------- | ------------------ |
